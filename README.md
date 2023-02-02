@@ -19,5 +19,8 @@ Samples (Test ACC 86.5% on 1K subset):
 | <img height="64" src="samples\orig_sample_17_y_7_y_hat_7_batch_idx_0.png" width="64"/>    |   <img height="64" src="samples\result_sample_17_y_7_y_hat_7_batch_idx_0.png" width="64"/>          |
 | <img height="64" src="samples\orig_sample_12_y_9_y_hat_9_batch_idx_0.png" width="64"/>  |   <img height="64" src="samples\result_sample_12_y_9_y_hat_9_batch_idx_0.png" width="64"/>          |
 
+# Citations:
 
+- [Feature Selection using Stochastic Gates](http://proceedings.mlr.press/v119/yamada20a/yamada20a.pdf)
+- [Locally Sparse Neural Networks for Tabular Biomedical Data](https://proceedings.mlr.press/v162/yang22i/yang22i.pdf)
 
